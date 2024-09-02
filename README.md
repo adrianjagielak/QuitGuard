@@ -21,6 +21,14 @@
 2. QuitGuard will start monitoring `Cmd+Q` presses.
 3. To quit an app, hold down `Cmd+Q` until the app closes. If you release `Cmd+Q` too quickly, the quit command will be ignored, preventing accidental closures.
 
+# Showcase
+
+![QuitGuard App Store screenshot 1](https://github.com/adrianjagielak/QuitGuard/blob/master/Assets/QuitGuard%20AppStore%201.png)
+
+![QuitGuard App Store screenshot 2](https://github.com/adrianjagielak/QuitGuard/blob/master/Assets/QuitGuard%20AppStore%202.png)
+
+![QuitGuard App Store screenshot 3](https://github.com/adrianjagielak/QuitGuard/blob/master/Assets/QuitGuard%20AppStore%203.png)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or [open an issue](https://github.com/adrianjagielak/QuitGuard/issues/new) if you have any suggestions or bug reports.
