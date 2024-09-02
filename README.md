@@ -2,7 +2,7 @@
 
 ![QuitGuard Icon](https://github.com/adrianjagielak/QuitGuard/blob/master/QuitGuard/Assets.xcassets/AppIcon.appiconset/macOS%20icon%20256.png)
 
-**QuitGuard** is a lightweight SwiftUI menu bar app that helps prevent accidental `Cmd+Q` presses, which can unintentionally close your entire application. This often happens due to the proximity of similar, commonly used shortcuts like `Cmd+W` (in Safari), leading to unintended app closures. QuitGuard offers a simple solution by requiring you to press and hold `Cmd+Q` to quit, minimizing the chances of these accidental exits.
+**QuitGuard** is a lightweight macOS menu bar app that helps prevent accidental `Cmd+Q` presses, which can unintentionally close your entire application. This often happens due to the proximity of similar, commonly used shortcuts like `Cmd+W` (in Safari), leading to unintended app closures. QuitGuard offers a simple solution by requiring you to press and hold `Cmd+Q` to quit, minimizing the chances of these accidental exits.
 
 ## Features
 
