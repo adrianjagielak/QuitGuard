@@ -12,7 +12,10 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/adrianjagielak/QuitGuard/releases) page and move it to your Applications folder.
+You can install the app using either of the following methods:
+
+- Download from the [Mac App Store](https://apple.co/3Z9nqYZ)
+- Download the latest release from the [Releases](https://github.com/adrianjagielak/QuitGuard/releases) page and move it to your Applications folder.
 
 ## Usage
 
